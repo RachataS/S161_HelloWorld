@@ -24,7 +24,12 @@ namespace HelloWorld
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("กดทำไม");
+            MessageBox.Show("ขอเกรด A ครับ");
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
