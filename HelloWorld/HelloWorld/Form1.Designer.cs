@@ -42,7 +42,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(437, 76);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Branch DEV3";
+            this.label1.Text = "Branch DEV4";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // button1
@@ -62,9 +62,9 @@
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label2.Location = new System.Drawing.Point(337, 101);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(119, 31);
+            this.label2.Size = new System.Drawing.Size(121, 31);
             this.label2.TabIndex = 3;
-            this.label2.Text = "1 + 1 = ?";
+            this.label2.Text = "5 X 5 = ?";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // textBox1

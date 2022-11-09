@@ -24,7 +24,7 @@ namespace HelloWorld
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "1 + 1 = 2";
+            textBox1.Text = "5 X 5 = 25";
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
